@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbtwHCdAGJ0PPZNWtSzCAT6H6ymmwNqJM21tuJSe0dUpklH8cW6ODn6e1y60co0NxS/bY4OVhdkh1Ocrnk/Aiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinkPad\\Projects\\DanskeBank-back-end-homework\\homework\\homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

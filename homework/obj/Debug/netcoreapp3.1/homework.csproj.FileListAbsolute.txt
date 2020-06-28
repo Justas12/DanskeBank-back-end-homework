@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.exe
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.deps.json
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.json
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.dev.json
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.dll
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\homework.pdb
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfo.cs
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.dll
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.pdb
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.genruntimeconfig.cache
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ThinkPad\Projects\DanskeBank-back-end-homework\homework\obj\Debug\netcoreapp3.1\homework.csproj.CopyComplete
